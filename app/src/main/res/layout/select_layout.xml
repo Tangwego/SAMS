@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="课程登记"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:background="@color/colorPrimary"
+        />
+    <EditText
+        android:id="@+id/sel_et_cusid"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入课程号"
+        />
+    <Button
+        android:id="@+id/sel_btn_cus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登记"
+        android:layout_gravity="right"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        />
+</LinearLayout>

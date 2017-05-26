@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="login_type">
+        <item>学生</item>
+        <item>教师</item>
+        <item>管理员</item>
+    </string-array>
+    <string-array name="pai">
+        <item>靠前第一排</item>
+        <item>靠前第二排</item>
+        <item>靠前第三排</item>
+        <item>靠后第一排</item>
+        <item>靠后第二排</item>
+        <item>靠后第三排</item>
+    </string-array>
+    <string-array name="lie">
+        <item>前门起第1列</item>
+        <item>前门起第2列</item>
+        <item>前门起第3列</item>
+        <item>前门起第4列</item>
+        <item>前门起第5列</item>
+        <item>前门起第6列</item>
+        <item>前门起第7列</item>
+        <item>前门起第8列</item>
+        <item>前门起第9列</item>
+        <item>前门起第10列</item>
+        <item>前门起第11列</item>
+        <item>前门起第12列</item>                      
+    </string-array>   
+</resources>

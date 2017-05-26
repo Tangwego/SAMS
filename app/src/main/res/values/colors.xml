@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1b813e</color>
+    <color name="colorPrimaryDark">#36563c</color>
+    <color name="colorAccent">#5dac81</color><!--5dac81  67c100-->
+
+    <color name="start">#5dac81</color>
+    <color name="center">#1b813e</color>
+    <color name="end">#36563c</color>
+
+    <color name="main">#1b813e</color>
+    <color name="mainDark">#36563c</color>
+
+    <color name="gray">#dddddd</color>
+    <color name="white">#ffffff</color>
+    <color name="trans">#00000000</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/adm_add_tech"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="添加老师" />
+        <item
+            android:id="@+id/adm_add_stu"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="添加学生" />
+        <item
+            android:id="@+id/adm_add_cus"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="添加课程" />
+    </group>
+
+    <item android:title="其他">
+        <menu>
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="设置" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="注销" />
+        </menu>
+    </item>
+
+</menu>
